@@ -18,18 +18,18 @@
   --iconsize: 3vh;
 
   /* Light theme  */
-  --accent: #61b0f1; /* Hover color */
-  --bg: #f5f5f5; /* Background color */
-  --sbg: #e4e6e6; /* Cards color */
+  --accent: #186efd60; /* Hover color */
+  --bg: #2f383e; /* Background color */
+  --sbg: #3a454a; /* Cards color */
 
-  --fg: #3a3a3a; /* Foreground color */
+  --fg: #d3c6aa; /* Foreground color */
   --sfg: #3a3a3a; /* Sceondary Foreground color */
 
   /* Image background  */
   --imgbg: url(assets/background.jpg);
   --imgcol: linear-gradient(
-    rgba(255, 255, 255, 0.7),
-    rgba(255, 255, 255, 0.7)
+    rgba(0, 0, 0, 0.7),
+    rgba(0, 0, 0, 0.7)
   ); /* Filter color */
 }
 
