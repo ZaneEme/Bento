@@ -23,7 +23,7 @@
   --sbg: #3a454a; /* Cards color */
 
   --fg: #d3c6aa; /* Foreground color */
-  --sfg: #3a3a3a; /* Sceondary Foreground color */
+  --sfg: #d3c6aa; /* Sceondary Foreground color */
 
   /* Image background  */
   --imgbg: url(assets/background.jpg);
